@@ -79,9 +79,17 @@ input {
 input::placeholder {
   color: white;
   opacity: 80%;
+ text-align: center;
 }
 
 button {
   border: 0;
   background-color: transparent;
 }
+
+
+.button{background-color: #ccc;
+border-radius: 10px;
+margin-left: 10px;
+font-size: 12px;
+padding: 3px 8px;}
